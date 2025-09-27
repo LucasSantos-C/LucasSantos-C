@@ -1,0 +1,8 @@
+{
+	"name": "pacman-abozanona-node",
+	"type": "module",
+	"version": "1.0.0",
+	"dependencies": {
+		"pacman-contribution-graph": "^2.0.0"
+	}
+}
