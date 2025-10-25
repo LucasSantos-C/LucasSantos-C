@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292.gif"  />
+<img align="right" height="150" src="https://tenor.com/pt-BR/view/rolimbox-okarun-turbo-dandadan-gif-4890250882260638471"  />
 
 ###
 
