@@ -6,9 +6,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasSantos-C&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucasSantos-C&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=LucasSantos-C&layout=compact&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=LucasSantos-C&layout=compact&langs_count=5&theme=dracula&hide_border=false&cache_seconds=86400)
 
 </div>
 
